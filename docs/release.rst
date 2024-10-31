@@ -12,6 +12,7 @@ FortiADC Galaxy 1.3.0 is based on 1.2.1.
 
 Features
 ^^^^^^^^^^^^^^^
+- Fix bugs of fadcos_backup_config.
 - Add new modules: 
 ::
 
